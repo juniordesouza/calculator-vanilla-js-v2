@@ -52,8 +52,7 @@
     font-size: 16px;
     border-radius: 5px;
     border: none;
-    /* ackground: rgba(115, 124, 255, 0.4); */
-    background: red;
+    background: rgba(115, 124, 255, 0.4);
     width: 100%;
     transition: ease 0.6s;
 }
